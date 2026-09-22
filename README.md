@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-Dataset preparation scripts for the four datasets used in the paper ([Lamp-HQ](https://link.springer.com/article/10.1007/s11263-021-01432-4), [VASIA-NIRVIS](https://pythonhosted.org/bob.db.cbsr_nir_vis_2/), [Oulu-CASIA](https://www.v7labs.com/open-datasets/oulu-casia), [BUUA-NIRVIS](https://paperswithcode.com/sota/face-verification-on-buaa-visnir?p=wasserstein-cnn-learning-invariant-features)) can be found in `data/crop_and_align.py`. 
+Dataset preparation scripts for the four datasets used in the paper ([Lamp-HQ](https://link.springer.com/article/10.1007/s11263-021-01432-4), [CASIA-NIRVIS](https://pythonhosted.org/bob.db.cbsr_nir_vis_2/), [Oulu-CASIA](https://www.v7labs.com/open-datasets/oulu-casia), [BUUA-NIRVIS](https://paperswithcode.com/sota/face-verification-on-buaa-visnir?p=wasserstein-cnn-learning-invariant-features)) can be found in `data/crop_and_align.py`. 
 
 
 ## Training
@@ -81,3 +81,4 @@ Pretrained checkpoints can be downloaded using the following links:
 | MobileFaceNet | backbone   | MS1M     | CASIA-1of10          | [google drive](https://drive.google.com/file/d/1N6l06_aWl-MlukLtrzqx8Dh3cgugqICp/view?usp=drive_link) |
 | MobileFaceNet | backbone   | MS1M     | Oulu-CASIA     | [google drive](https://drive.google.com/file/d/1aEFKBfxa0i4ABxyECaPUJaTgM1s9Xftg/view?usp=drive_link) |
 | MobileFaceNet | backbone   | MS1M     | BUUA           | [google drive](https://drive.google.com/file/d/1P_Myh0LAn-y5D_4oePjx0NB61ySWmrTX/view?usp=drive_link) |
+
